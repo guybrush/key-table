@@ -1,0 +1,10 @@
+{
+  "name": "key-table",
+  "version": "0.0.0",
+  "description": "a key-table for browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
